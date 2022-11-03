@@ -8,4 +8,4 @@ function clickImages() {
   });
 }
 
-export { clickImages };
+export default clickImages ;
